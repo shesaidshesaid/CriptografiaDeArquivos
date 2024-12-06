@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nome do app -->
+    <string name="app_name">Criptografia de Arquivos</string>
+
+    <!-- Botões principais -->
+    <string name="select_file">Selecionar Arquivo</string>
+    <string name="encrypt">Criptografar</string>
+    <string name="decrypt">Descriptografar</string>
+
+    <!-- Mensagens de status -->
+    <string name="status_waiting">Aguardando ação…</string>
+    <string name="status_file_selected">Arquivo selecionado: %1$s</string>
+    <string name="success_encrypt">Arquivo criptografado com sucesso!</string>
+    <string name="success_decrypt">Arquivo descriptografado com sucesso!</string>
+    <string name="error_decrypt">Erro ao descriptografar o arquivo.</string>
+    <string name="error">Ocorreu um erro inesperado. Tente novamente.</string>
+
+    <!-- Mensagens do diálogo de senha -->
+    <string name="password_prompt_encrypt">Digite uma senha para criptografia</string>
+    <string name="password_prompt_decrypt">Digite uma senha para descriptografia</string>
+    <string name="password_empty_error">Senha não pode estar vazia!</string>
+    <string name="max_attempts_error">Máximo de tentativas alcançado. Tente novamente mais tarde.</string>
+
+    <!-- Fragmentos -->
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+</resources>
